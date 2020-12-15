@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/PasswordGenerator/src/main/java"/>
+	<classpathentry kind="src" path="/PasswordGenerator/src/main/resources"/>
+	<classpathentry kind="src" path="/PasswordGenerator/src/test/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.squareup.okhttp:okhttp:2.7.5"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.squareup.okio:okio:1.6.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.google.code.gson:gson:2.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
